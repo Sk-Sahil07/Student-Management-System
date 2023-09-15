@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TPI User App</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/opensansbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/opensansregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/opensanslight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg">This Polytechnic Collage established in 2008 with a Vision of To be a premier Institute in pursuit of excellence in technical education and skill development committed to serve the society. Currently offers 3-years Diploma courses in various fields of engineering and technology. The Institute is situated at Panchrokhi, Sugandhya which is within the immediate vicinity of Historical cities as Hooghly and Bandel.</string>
+
+</resources>

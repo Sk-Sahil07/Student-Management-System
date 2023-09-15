@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_video"
+        android:title="Video Lectures"
+        android:icon="@drawable/ic_video_tutorial"/>
+
+    <item android:id="@+id/navigation_document"
+        android:title="Document"
+        android:icon="@drawable/ic_document"/>
+
+    <item android:id="@+id/navigation_classroom"
+        android:title="Google ClassRoom"
+        android:icon="@drawable/ic_classroom"/>
+
+    <item android:id="@+id/navigation_website"
+        android:title="Website"
+        android:icon="@drawable/ic_website"/>
+
+    <item android:id="@+id/navigation_developer"
+        android:title="App Developer"
+        android:icon="@drawable/ic_developer"/>
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548241326365",
+    "firebase_url": "https://my-college-app-5a990.firebaseio.com",
+    "project_id": "my-college-app-5a990",
+    "storage_bucket": "my-college-app-5a990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548241326365:android:0e90f42a22ebf94e3ba1f4",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagementadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548241326365-8seran36tut3d06kr4psiuktapiud4vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5e3gEaABYVRbZP6dj692tJOvHhxVDJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548241326365-8seran36tut3d06kr4psiuktapiud4vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
